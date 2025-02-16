@@ -37,8 +37,8 @@ We use the **Global Terrorism Database (GTD)**, which includes information on te
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/gtd-big-data-analysis.git
-   cd gtd-big-data-analysis
+   git clone https://github.com/your-username/Big-Data-Analysis-GTD.git
+   cd Big-Data-Analysis-GTD
    ```
 2. Install dependencies:
    ```bash
