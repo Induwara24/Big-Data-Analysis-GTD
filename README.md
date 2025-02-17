@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This project analyzes global terrorism trends using the **Global Terrorism Database (GTD)**. We employ **big data techniques** to identify patterns, hotspots, and attack trends, enabling deeper insights into the evolution of terrorism worldwide.
 
+Presentation Video of the Big Data Analytics on GTD - (Video)[https://youtu.be/Nvl7g7nqGEM?si=E7Ds45GYKcR0JlyU]
+
 ## 🔍 Key Objectives
 - **Trend Analysis** – Explore how terrorism has evolved over time across different regions.
 - **Hotspot Detection** – Identify countries and cities with the highest terrorist activity.
